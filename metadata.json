@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Restaurante",
+  "description": "Sistema integrado para gerenciamento em tempo real de pedidos, controle de estoque, reservas de mesas e relatórios financeiros semanais personalizáveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
